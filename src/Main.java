@@ -28,7 +28,7 @@ public class Main {
         while( b-- > a++)
             System.out.println(a);
 
-
+//salam
 
     }
 }
